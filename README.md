@@ -1,5 +1,2 @@
-# KinectDataAcquisition
-A simple visual studio solution project for skeletal data collection from Microsoft Kinect sensor version 2
+# American Sign Language Recognition using Kinect (rgb and pose data)
 
-This solution project is adapted from another source. See link below for original work,
-https://github.com/BristolVisualPFT/3D_Data_Acquisition_Registration_Using_Kinects/tree/master/Single_Kinect
