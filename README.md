@@ -7,6 +7,19 @@ A. A. Hosain, P. S. Santhalingam, P. Pathak, J. Košecká and H. Rangwala,
 2019 IEEE International Conference on Data Science and Advanced Analytics (DSAA), 2019, 
 pp. 203-210, doi: 10.1109/DSAA.2019.00035.
 
+Please cite the paper if you find this useful,
+```
+@INPROCEEDINGS{8964180,
+  author={Hosain, Al Amin and Santhalingam, Panneer Selvam and Pathak, Parth and Košecká, Jana and Rangwala, Huzefa},
+  booktitle={2019 IEEE International Conference on Data Science and Advanced Analytics (DSAA)}, 
+  title={Sign Language Recognition Analysis using Multimodal Data}, 
+  year={2019},
+  volume={},
+  number={},
+  pages={203-210},
+  doi={10.1109/DSAA.2019.00035}}
+```
+
 ## Dataset Download
 To access the full dataset, email: ahosain@gmu.edu or see below, <br>
 Download the videos and kinect pose, [GMU-ASL51 Download](https://drive.google.com/file/d/1D0Ew6gifUXHZGgXVqKJOt4XlXMTIA7Aj/view?usp=sharing) <br>
