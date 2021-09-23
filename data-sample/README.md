@@ -1,6 +1,8 @@
 ## Sample data example from GMU-ASL51
 This directory contains several sample examples from the GMU-ASL51 dataset. <br>
-To access the full dataset, email: ahosain@gmu.edu
+To access the full dataset, email: ahosain@gmu.edu or see below, <br>
+Download the videos and kinect pose, [GMU-ASL51 Download](https://drive.google.com/file/d/1D0Ew6gifUXHZGgXVqKJOt4XlXMTIA7Aj/view?usp=sharing) <br>
+Download the openpose poses from, [OpenPose Pose Download](https://drive.google.com/file/d/1vS5pYPhmeEY57ADOeqxmcX9fWqAk09GR/view?usp=sharing) <br>
 
 ### File structures
 1. The folder contains one direcotory for each of the 12 subjects in GMU-ASL51. <br>
