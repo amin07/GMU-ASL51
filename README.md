@@ -17,3 +17,5 @@ To visualize a sample sign video and related pose data,
   ``` python draw_pose.py data-sample/gmu-asl51-samples/subject01/play_subject01_15_rgb.avi data-sample/openpose_pose_samples/subject01_json/ ```
 5. Run the script draw_kinect_pose.py for running with kinect pose, <br />
   ``` python draw_kinect_pose.py data-sample/gmu-asl51-samples/subject04/bedroom_subject04_11_rgb.avi data-sample/gmu-asl51-samples/subject04/bedroom_subject04_11_bodyData.txt ```
+6. Here is an example visualization using openpose pose,
+![alt text](data-sample/saved_vis.png)
