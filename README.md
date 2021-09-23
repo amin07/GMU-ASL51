@@ -7,6 +7,13 @@ A. A. Hosain, P. S. Santhalingam, P. Pathak, J. Košecká and H. Rangwala,
 2019 IEEE International Conference on Data Science and Advanced Analytics (DSAA), 2019, 
 pp. 203-210, doi: 10.1109/DSAA.2019.00035.
 
+## Dataset Download
+To access the full dataset, email: ahosain@gmu.edu or see below, <br>
+Download the videos and kinect pose, [GMU-ASL51 Download](https://drive.google.com/file/d/1D0Ew6gifUXHZGgXVqKJOt4XlXMTIA7Aj/view?usp=sharing) <br>
+Download the openpose poses from, [OpenPose Pose Download](https://drive.google.com/file/d/1vS5pYPhmeEY57ADOeqxmcX9fWqAk09GR/view?usp=sharing) <br>
+
+
+## Sample Data Visualize
 The data-sample folder contains sample data from the GMU-ASL51 dataset, proposed in the above work.
 
 To visualize a sample sign video and related pose data, 
